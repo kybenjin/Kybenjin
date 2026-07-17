@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+bk-trading-cash-academy/
+│
+├── backend/
+├── frontend/
+├── docs/
+├── README.md
+└── LICENSE
+backend/
+├── package.json
+├── server.js
+├── src/
+│   ├── controllers/
+│   ├── routes/
+│   ├── middleware/
+│   ├── models/
+│   └── config/
